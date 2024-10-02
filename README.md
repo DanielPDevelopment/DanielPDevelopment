@@ -1,5 +1,5 @@
 # 👋 Welcome to My GitHub Profile!
-These are my more focused, public facing repos. See my chaotic personal [repos](https://github.com/ofrepose)
+These are my more focused, public facing repos. See my older personal [repos](https://github.com/ofrepose)
 
 ## About Me
 
